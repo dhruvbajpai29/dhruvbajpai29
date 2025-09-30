@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![An image of @dhruvbajpai29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvbajpai29)](https://holopin.io/@dhruvbajpai29)
+<!--[![An image of @dhruvbajpai29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvbajpai29)](https://holopin.io/@dhruvbajpai29)-->
+https://assets.holopin.io/hf2025levels/lvl0-human.webp
 <!--
 **dhruvbajpai29/dhruvbajpai29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
