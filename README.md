@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!--[![An image of @dhruvbajpai29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvbajpai29)](https://holopin.io/@dhruvbajpai29)-->
 <a href="https://holopin.io/@dhruvbajpai29">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Hacktoberfest 2025 Badge" width="100">
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Hacktoberfest 2025 Badge" width="120">
 </a>
 <!--
 **dhruvbajpai29/dhruvbajpai29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
