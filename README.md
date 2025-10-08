@@ -5,9 +5,8 @@ I'm a Java developer and a passionate open-source contributor with a strong focu
 I enjoy diving deep into complex problems and ownership of my tasks.
 
 <a href="https://holopin.io/@dhruvbajpai29">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Hacktoberfest 2025 Badge" width="120">
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Hacktoberfest 2025 Badge" width="120">
 </a>
-
 (Hacktoberfest Badge)
 <!--
 **dhruvbajpai29/dhruvbajpai29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
