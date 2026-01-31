@@ -50,9 +50,7 @@ I enjoy diving deep into complex problems and ownership of my tasks.
 </p>
 
 Cryptomator is an **award-winning open-source encryption project** that protects cloud data with zero-knowledge security,  
-and I’m  a contributor to it.  
+and I’m  a contributor to it with features merged in stable release 1.18.0 .  
 
-
----
 
 ---
